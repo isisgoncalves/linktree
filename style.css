@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  /* 
+  background: 
+  */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.perfil {
+  padding-top: 50px;
+}
+
+.name {
+  /*
+  fonte
+  color
+  */
+  font-size: 3rem;
+  padding: 10px; 
+  text-align: center;
+}
+
+.box1 {
+  width: 95vw;
+  height: 35vh;
+  /*
+  background-color
+  */
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+main {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;  
+}
+
+.link {
+  /*
+  background
+  color
+  fonte
+  */
+  height: 10vh;
+  width: 80vw;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 1rem;
+  /*color*/
+}
+
+/*
+.link:hover {
+  background
+  color
+}*/
