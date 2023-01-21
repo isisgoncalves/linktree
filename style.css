@@ -4,7 +4,7 @@
 }
 
 body{
-  background-color: chocolate;
+  background-color: #714d33;
 }
 
 header{
@@ -15,14 +15,16 @@ header{
 }
 
 .perfil { 
-  border-radius: 100vh;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
 }
 
 .name {
   /*fonte*/
   color: whitesmoke;
-  font-size: 3rem;
-  padding: 40px; 
+  font-size: 2.7rem;
+  padding: 27px; 
   text-align: center;
 }
 
@@ -30,17 +32,19 @@ main {
 display: flex;
 flex-direction: column;
 justify-content: center;
-align-items: center;  
+align-items: center; 
 }
 
 .link {
-  /*fonte*/
+  /*fonte
+  background-image*/
   color: whitesmoke;
-  height: 10vh;
-  width: 80vw;
-  padding: 10px;
-  margin: 10px;
+  height: 7vh;
+  width: 55vw;
+  padding: 8px;
+  margin: 8px;
   border-radius: 10px;
+  border: 1px solid whitesmoke;
 }
 
 a {
@@ -49,11 +53,9 @@ a {
   align-items: center;
   text-decoration: none;
   font-size: 1rem;
-  /*color*/
 }
 
 /*
 .link:hover {
-  background
   color
 }*/
