@@ -33,7 +33,7 @@ Atualmente trabalho com HTML e CSS, sendo JS meu próximo tópico de estudo.
 ## Demonstração
 
 <h1 align="center"> 
-  <img alt="Página de uma cafeteria com nome de Code Café" title="#CodeCafé" src="images/codecafe.gif"/>
+  <img src="images/codecafe.gif" alt="Página de uma cafeteria com nome de Code Café"/>
 </h1>
 
 ## :open_file_folder: O que acha de acessar o projeto? 
