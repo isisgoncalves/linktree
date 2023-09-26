@@ -32,9 +32,9 @@ Atualmente trabalho com HTML e CSS, sendo JS meu próximo tópico de estudo.
 
 ## Demonstração
 
-<h1 align="center"> 
-  <img src="images/codecafe.gif" alt="Página de uma cafeteria com nome de Code Café"/>
-</h1>
+<p align="center">
+<img src="./image/receitas.gif" alt="">
+</p> 
 
 ## :open_file_folder: O que acha de acessar o projeto? 
 Você pode acessar o projeto clicando [aqui](https://isisgoncalves.github.io/linktree/).
