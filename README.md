@@ -33,7 +33,7 @@ Atualmente trabalho com HTML e CSS, sendo JS meu próximo tópico de estudo.
 ## Demonstração
 
 <p align="center">
-<img src="./image/receitas.gif" alt="">
+<img src="./images/codecafe.gif" alt="">
 </p> 
 
 ## :open_file_folder: O que acha de acessar o projeto? 
